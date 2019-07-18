@@ -34,3 +34,7 @@ Here are what the columns represent:
    delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
    
    pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+
+
+You can also click the below link to see the code:
+https://nbviewer.jupyter.org/github/samirghouri/Random-Forest/blob/master/RandomForest.ipynb
